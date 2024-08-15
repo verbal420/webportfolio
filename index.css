@@ -74,6 +74,10 @@ body, footer {
     transform: scale(1.2);
 }
 
-#project h3, #contact h3, #msg label, #tools h3, #tools p, #contact h5 {
+#projects h3, #contact h3, #msg label, #tools h3, #tools p, #contact h5 {
 	color: white;
+}
+
+#map {
+	border: 0;
 }
