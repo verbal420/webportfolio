@@ -62,10 +62,6 @@ body, footer {
 	color: white;
 }
 
-.card-body {
-    background-color: rgba(0, 0, 0, 0.7);
-}
-
 #contact .icon {
     transition: transform 0.3s;
 }
@@ -81,3 +77,13 @@ body, footer {
 #map {
 	border: 0;
 }
+
+.card {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#projects .card-body {
+	background-color: rgba(0, 0, 0, 0.7);
+	opacity: 0.7;
+}
+
